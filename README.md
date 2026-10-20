@@ -57,3 +57,7 @@ The accompanying team research manuscript reports a working hardware prototype, 
 
 ## Documentation
 Academic manuscript: *Intelligent Multicabin Access System Using Face Recognition* (team-provided, seven pages). The original manuscript is not republished here pending clearance to redistribute its full text and images.
+
+## Additional implementation context
+
+See [Implementation details and Shravya's reported contributions](docs/IMPLEMENTATION_DETAILS.md), prepared from the team research manuscript and the newly supplied interview notes. Original face datasets and unredacted photos remain unpublished.
