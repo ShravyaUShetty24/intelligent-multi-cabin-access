@@ -11,7 +11,7 @@ In the supplied `intelli.pdf` interview notes, Shravya describes:
 - Implementing **Telegram image alerts and remote approval/denial**.
 - Testing and debugging lighting, multi-face input and hardware interfacing.
 
-These are **student-described contributions**, not a verified commit history. The academic paper lists Shravya U Shetty, Srilakshmi H Y, Suvarna and faculty guide Mrs. Reshma.
+These are **Shravya U Shetty's reported contributions**, not a verified commit history. The source paper documents a collaborative student project with faculty guidance; the portfolio focuses on Shravya's own work.
 
 ## Workflow in the supplied material
 1. Camera video is captured on the Raspberry Pi; frames are converted to grayscale for face detection.
