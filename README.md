@@ -53,7 +53,7 @@ The accompanying team research manuscript reports a working hardware prototype, 
 - The research paper discusses performance qualitatively; this repository does not claim verified production-grade accuracy.
 
 ## Team credits
-**Shravya U Shetty, Srilakshmi H Y and Suvarna** — project team. **Mrs. Reshma** — faculty guide, Acharya Institute of Technology, Bengaluru.
+**Shravya U Shetty** — portfolio author and academic project contributor, Acharya Institute of Technology, Bengaluru. Developed as a collaborative student team project with faculty guidance.
 
 ## Documentation
 Academic manuscript: *Intelligent Multicabin Access System Using Face Recognition* (team-provided, seven pages). The original manuscript is not republished here pending clearance to redistribute its full text and images.
