@@ -35,4 +35,4 @@ Liveness detection, multi-factor authentication, stronger encryption, local/offl
 If previously used Telegram Bot API tokens appear in screenshots or code, treat them as compromised, revoke them using BotFather and rotate any affected credentials.
 
 ## Credits
-Shravya U Shetty, Srilakshmi H Y and Suvarna; faculty guide Mrs. Reshma, Acharya Institute of Technology. This is a collaborative academic project, not a sole-authored production system.
+**Shravya U Shetty** — portfolio owner and project contributor, Acharya Institute of Technology. This was a collaborative academic team project completed with faculty guidance, not a sole-authored production system.
