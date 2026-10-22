@@ -52,9 +52,6 @@ The accompanying research manuscript reports a working hardware prototype, real-
 - Facial recognition requires testing against spoofing, false recognition, low light and power failures before any real security deployment.
 - The research paper discusses performance qualitatively; this repository does not claim verified production-grade accuracy.
 
-## Portfolio profile
-**Shravya U Shetty** — academic project contributor and portfolio owner, Acharya Institute of Technology, Bengaluru.
-
 ## Documentation
 Academic manuscript: *Intelligent Multicabin Access System Using Face Recognition* (seven-page academic manuscript). The original manuscript is not republished here pending clearance to redistribute its full text and images.
 
