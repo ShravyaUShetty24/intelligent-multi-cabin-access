@@ -33,6 +33,3 @@ Liveness detection, multi-factor authentication, stronger encryption, local/offl
 
 ## Security maintenance
 If previously used Telegram Bot API tokens appear in screenshots or code, treat them as compromised, revoke them using BotFather and rotate any affected credentials.
-
-## Portfolio profile
-**Shravya U Shetty** — academic project contributor and portfolio owner, Acharya Institute of Technology. This page highlights her documented work without claiming sole authorship of all components.
