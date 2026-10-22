@@ -1,7 +1,7 @@
 # Technical Case Study — Intelligent Multi-Cabin Access System
 
 ## Context and challenge
-The team's project manuscript identifies the limits of mechanical keys, single-door access solutions and the lack of remote owner approval. The proposed academic prototype combines a Raspberry Pi controller, camera, automatic electronic locks and Telegram communication for multi-cabin access.
+The project manuscript identifies the limits of mechanical keys, single-door access solutions and the lack of remote owner approval. The proposed academic prototype combines a Raspberry Pi controller, camera, automatic electronic locks and Telegram communication for multi-cabin access.
 
 ## Implemented workflow (as reported)
 1. A Raspberry Pi camera or attached webcam captures an approaching user's face.
@@ -21,7 +21,7 @@ The team's project manuscript identifies the limits of mechanical keys, single-d
 - A photograph of the prototype wiring documents the Raspberry Pi, power interface, relay and solenoid.
 - Screenshots from the Raspberry Pi desktop and Thonny editor document face data collection and recognition demonstrations.
 - Messaging screenshots document alerts and owner response messages.
-- A seven-page team research manuscript includes the system architecture, modules, results, photographs, technologies and future improvements.
+- A seven-page academic research manuscript includes the system architecture, modules, results, photographs, technologies and future improvements.
 
 For safety, this public repository does **not** include identifiable face samples, the chat screenshots, code screenshots showing secret tokens, or raw training datasets. A sanitized evidence gallery can be added later with all participants' consent.
 
@@ -34,5 +34,5 @@ Liveness detection, multi-factor authentication, stronger encryption, local/offl
 ## Security maintenance
 If previously used Telegram Bot API tokens appear in screenshots or code, treat them as compromised, revoke them using BotFather and rotate any affected credentials.
 
-## Credits
-**Shravya U Shetty** — portfolio owner and project contributor, Acharya Institute of Technology. This was a collaborative academic team project completed with faculty guidance, not a sole-authored production system.
+## Portfolio profile
+**Shravya U Shetty** — academic project contributor and portfolio owner, Acharya Institute of Technology. This page highlights her documented work without claiming sole authorship of all components.

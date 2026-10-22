@@ -1,7 +1,7 @@
 # Implementation Insights — Intelligent Multi-Cabin Access System
 
 ## Academic evidence
-The team manuscript *Intelligent Multicabin Access System Using Face Recognition* describes a Raspberry Pi-based prototype using a camera, Haar Cascade face detection, LBPH recognition, electronic locking and Telegram owner alerts. Screenshots show hardware wiring, camera/recognition output and chat alerts. The source code has not been shared for public publication.
+The academic manuscript *Intelligent Multicabin Access System Using Face Recognition* describes a Raspberry Pi-based prototype using a camera, Haar Cascade face detection, LBPH recognition, electronic locking and Telegram owner alerts. Screenshots show hardware wiring, camera/recognition output and chat alerts. The source code has not been shared for public publication.
 
 ## Shravya's described contribution
 In the supplied `intelli.pdf` interview notes, Shravya describes:
@@ -11,7 +11,7 @@ In the supplied `intelli.pdf` interview notes, Shravya describes:
 - Implementing **Telegram image alerts and remote approval/denial**.
 - Testing and debugging lighting, multi-face input and hardware interfacing.
 
-These are **Shravya U Shetty's reported contributions**, not a verified commit history. The source paper documents a collaborative student project with faculty guidance; the portfolio focuses on Shravya's own work.
+These are **Shravya U Shetty's reported contributions**, not a verified commit history. This portfolio focuses on Shravya's reported work without claiming sole authorship of every component.
 
 ## Workflow in the supplied material
 1. Camera video is captured on the Raspberry Pi; frames are converted to grayscale for face detection.
@@ -33,4 +33,4 @@ The Raspberry Pi GPIO is not suitable for driving a 12V solenoid directly, so a 
 **A screenshot shows a live-looking Telegram token. Revoke the token with BotFather and rotate it.** Do not publish facial biometric datasets, raw photo evidence or personal chat IDs without consent. Before real deployment, add liveness detection, authorization hardening, safer token management and a safe lock-failure policy.
 
 ## Sources
-Team research paper and `intelli.pdf` interview-preparation notes, supplied by the project team. The original PDFs and biometric screenshots are not redistributed in this repository.
+Academic research paper and `intelli.pdf` interview-preparation notes supplied for Shravya's portfolio. The original PDFs and biometric screenshots are not redistributed in this repository.
